@@ -12,7 +12,7 @@
 
 ## 👨‍🎓 About Me
 - 🎓 School Student from Sri Lanka  
-- 💻 Passionate Web Developer  
+- 💻 learning Web Development 
 - 🌱 Learning Frontend Development  
    
 
