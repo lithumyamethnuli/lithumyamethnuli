@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Lithumya  
-
+# 👋 Hi, I'm Lithumya 
+![Profile Views](https://komarev.com/ghpvc/?username=lithumyamethnuli&label=Profile+Views)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9333EA&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff" />
 </p>
@@ -30,8 +30,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lithumyamethnuli&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lithumyamethnuli&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lithumyamethnuli&label=Profile+Views)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithumyamethnuli&layout=compact&theme=tokyonight" />
