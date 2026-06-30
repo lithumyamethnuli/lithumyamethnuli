@@ -31,8 +31,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lithumyamethnuli&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lithumyamethnuli&layout=compact&theme=tokyonight)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=lithumyamethnuli&label=Profile+Views)
 
 <p align="center">
