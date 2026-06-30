@@ -27,7 +27,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lithumyamethnuli&show_icons=true)
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lithumyamethnuli&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lithumyamethnuli&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lithumyamethnuli&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lithumyamethnuli&label=Profile+Views)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithumyamethnuli&layout=compact&theme=tokyonight" />
